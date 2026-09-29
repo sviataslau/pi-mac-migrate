@@ -1,0 +1,10 @@
+{
+  "name": "pi-mac-migrate",
+  "version": "0.1.0",
+  "description": "Pi prompt template that migrates a dev setup, apps, and folders from an old Mac over the local network",
+  "keywords": ["pi-package", "macos", "migration", "setup"],
+  "license": "MIT",
+  "author": "sviataslau",
+  "repository": { "type": "git", "url": "git+https://github.com/sviataslau/pi-mac-migrate.git" },
+  "pi": { "prompts": ["./prompts/*.md"] }
+}
