@@ -1,0 +1,23 @@
+LICENSE
+  s_32548d20a19b99::t_2d53d61a95b68a 1-9
+README.md
+  s_32548d20a19b99::t_6e1090418d0c93 1-56
+package.json
+  s_32548d20a19b99::t_b6101d624210c2 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "19a6cec154ffb1454096e1e5836533ed0743839c",
+  "prompts": {},
+  "sessions": {
+    "s_32548d20a19b99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "01a0ee02-4107-72bf-a48d-7e8421d45c3a",
+        "model": "anthropic/claude-opus-5-5"
+      },
+      "human_author": "slava <slava@crexi.com>"
+    }
+  }
+}
